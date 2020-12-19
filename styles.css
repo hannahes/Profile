@@ -1,0 +1,216 @@
+body {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  background-color: #d0e8f2;
+
+
+}
+p {
+  color: #77928f;
+  text-align: justify;
+  padding: 0 4% 0 4%;
+
+}
+
+ul {
+  color: #77928f;
+  padding: 0 4% 0 4%;
+
+}
+
+.hannah {
+  letter-spacing: -2px;
+}
+
+.laptopgif {
+  border-radius: 100%;
+
+}
+
+.profilepic {
+  width: 400px;
+  height: 400px;
+  border-radius: 100%;
+
+  }
+
+h1 {
+  margin: 50 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 6.5rem;
+  color: #79a3b1;
+  }
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  position: relative;
+  top: 0;
+  margin-bottom: 6px;
+
+  color: #79a3b1;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #79a39e;
+  margin: 60px auto 12px auto;
+}
+
+div {
+  background-color: #d0e8f2;
+}
+
+.ppindent {
+  margin-left: 4%;
+}
+
+.bginfo {
+  margin-left: 4%;
+}
+
+.interest {
+  margin-left: 4%;
+}
+
+.idealjob {
+  margin-left: 4%
+}
+
+.profle {
+  margin: 0;
+}
+
+.personalprofile {
+  margin: 0 auto auto 4%;
+}
+
+.ptestlinks {
+  margin-left: 4%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.topcontainer {
+  background-color: #d0e8f2;
+  position: relative;
+  padding-top: 100px;
+  margin: 0;
+  text-align: center;
+}
+
+.topcontainer2 {
+  text-align: center;
+}
+
+.pro {
+  text-decoration: underline;
+  }
+
+.italics {
+  font-style:italic;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 50px
+}
+
+
+.middlecontainer {
+  background-color: #d0e8f2;
+
+}
+
+
+.middle-branch {
+  width:200px;
+  height: 160px;
+  border-radius: 100%;
+  text-align: center;
+}
+
+.branch {
+  display: block;
+  margin-left: 50%;
+  margin-right: auto;
+  width: 50%;
+  height: 20%;
+
+}
+
+.personality-tests {
+  text-align: center;
+}
+
+.projecttitle {
+margin-left: 4%;
+}
+
+
+.contact-me {
+  text-align: center;
+
+}
+.bottomcontainer {
+  text-align: center;
+  margin-bottom: -20px;
+
+}
+
+.comingsoon {
+  margin: 0;
+}
+
+.projecth1 {
+text-align: center;
+ padding: 0;
+ letter-spacing: -2px;
+
+}
+
+.projecth2 {
+margin: 0;
+padding: 0;
+}
+
+.references {
+  margin-left: 4%;
+}
+
+.overview {
+  margin-top: 60px;
+  margin-left: 4%
+}
+
+.motivation {
+  margin-left: 4%;
+  }
+
+.description {
+  margin-left: 4%;
+}
+
+.toolss {
+  margin-left: 4%;
+}
+
+.skills {
+  margin-left: 4%;
+}
+
+.outcome {
+  margin-left: 4%;
+}
